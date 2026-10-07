@@ -46,7 +46,6 @@ function calculateTotal(quantity, unitPrice) {
     return quantity * unitPrice;
 }
 
-// Required demonstrations
 
 console.log("Task 2");
 
@@ -116,7 +115,7 @@ function calculateInventoryValue(productList) {
 }
 
 
-// find products below the stock threshold
+// find products below the stock 
 
 function getLowStockProducts(productList, threshold) {
 
